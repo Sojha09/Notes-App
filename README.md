@@ -1,0 +1,1 @@
+The MERN Notes App is a full-stack application that allows users to create, edit, and delete notes. Built using the MERN stack (MongoDB, Express, React, Node.js), this app provides a seamless user experience for managing notes efficiently.
